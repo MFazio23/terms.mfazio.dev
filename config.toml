@@ -1,0 +1,30 @@
+baseURL = "https://terms.mfazio.dev"
+languageCode = "en-us"
+title = "Terms, Conditions, and Privacy Policies"
+theme = "minimal"
+
+[params]
+    author = "Michael Fazio"
+    description = "Terms/Conditions and Privacy Policies for mfazio.dev Apps"
+    accent = "#78C257"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/terms/"
+    name = "Terms and Conditions"
+    weight = 2
+
+[[menu.main]]
+    url = "/privacy/"
+    name = "Privacy"
+    weight = 3
