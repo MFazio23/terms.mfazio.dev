@@ -1,7 +1,7 @@
 ---
 title: "Android Baseball League - Privacy Policy"
 date: 2022-01-15T16:13:02-06:00
-draft: true
+draft: false
 ---
 The Android Baseball League is a real app about a fake league created for the [Pragmatic Bookshelf](https://pragprog.com/) title ["Kotlin and Android Development featuring Jetpack"](https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/).
 
